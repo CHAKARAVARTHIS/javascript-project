@@ -1,0 +1,11 @@
+form {
+    padding: 50px;
+   display: flex;
+    justify-content: center;
+}
+
+fieldset {
+    width: 300px;
+    background-color: blueviolet;
+    padding: 20px;
+}
